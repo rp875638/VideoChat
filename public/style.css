@@ -1,0 +1,23 @@
+* {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+*:before,
+*:after {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+#previewVideo {
+    width: 95%;
+    height: 99%;
+}
+
+#localVideo,
+#remoteVideo {
+    width: 45%;
+    height: 99%;
+}
